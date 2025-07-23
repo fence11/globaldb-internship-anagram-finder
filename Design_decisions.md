@@ -32,3 +32,6 @@ Because the dictionary used for grouping anagrams can grow very large when proce
 - get the next group until all groups are finished
 
 Each group could be processed in parallel to improve efficiency.
+
+> [!NOTE]  
+> In order to support large datasets, we would need a database instead of a simple `.txt` file and we could make use of frameworks that are made for this like Dask and Pandas.
