@@ -1,0 +1,1 @@
+# globaldb-internship-anagram-finder
