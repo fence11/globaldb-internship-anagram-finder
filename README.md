@@ -1,6 +1,4 @@
-# globaldb-internship-anagram-finder
-
-## How to Run the Application
+# How to Run the Application
 
 To run this application, follow these steps:
 
